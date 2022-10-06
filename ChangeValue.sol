@@ -15,6 +15,8 @@ pragma solidity ^0.8.7;
 
 contract ChangeValue {
 
+    // declare x as an unsigned integer and assign an initalize value of 10 to it.
+
     uint x = 10;
 
 
