@@ -13,7 +13,7 @@ This contract is a simple demonstration of how to overwrite a value using modifi
 pragma solidity ^0.8.7;
 
 
-contract OverwriteValue {
+contract ChangeValue {
 
     uint x = 10;
 
